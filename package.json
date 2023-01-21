@@ -1,0 +1,19 @@
+{
+  "name": "lottery-api",
+  "version": "1.0.0",
+  "description": "API to generate random numbers for various lotteries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jyeh20/lottery-api.git"
+  },
+  "author": "Jonathan Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jyeh20/lottery-api/issues"
+  },
+  "homepage": "https://github.com/jyeh20/lottery-api#readme"
+}
